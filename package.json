@@ -2,6 +2,7 @@
 	"name": "project_name",
 	"version": "1.0.0",
 	"description": "",
+	"type": "module",
 	"scripts": {
 		"build": "webpack --config webpack.prod.js",
 		"dev": "webpack serve --config webpack.dev.js",
